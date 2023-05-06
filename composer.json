@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.js": "javascript"
+  },
+  "workbench.editor.enablePreview": false,
+  "editor.fontSize": 18,
+  "php.validate.executablePath": "/usr/bin/php"
+}
